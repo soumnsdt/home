@@ -50,8 +50,8 @@ let linksData = [
   },
   {
     icon: Cloud,
-    name: "chatGPT-web",
-    link: "www.kevin-dt.top",
+    name: "ChatGPT-web",
+    link: "http://www.kevin-dt.top/",
   },
   {
     icon: CompactDisc,
@@ -60,8 +60,8 @@ let linksData = [
   },
   {
     icon: Compass,
-    name: "chatGPT-Train",
-    link: "chatgpt-train.kevin-dt.top/",
+    name: "ChatGPT-Train",
+    link: "http://chatgpt-train.kevin-dt.top/",
   },
   {
     icon: Book,
