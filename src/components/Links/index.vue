@@ -46,12 +46,12 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://blog.csdn.net/weixin_40379143",
   },
   {
     icon: Cloud,
-    name: "网盘",
-    link: "https://pan.imsyy.top/",
+    name: "chatGPT-web",
+    link: "www.kevin-dt.top",
   },
   {
     icon: CompactDisc,
@@ -60,8 +60,8 @@ let linksData = [
   },
   {
     icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
+    name: "chatGPT-Train",
+    link: "chatgpt-train.kevin-dt.top/",
   },
   {
     icon: Book,
