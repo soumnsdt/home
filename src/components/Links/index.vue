@@ -45,7 +45,7 @@ import {
 let linksData = [
   {
     icon: Blog,
-    name: "博客",
+    name: "Blog",
     link: "https://blog.csdn.net/weixin_40379143",
   },
   {
@@ -55,8 +55,8 @@ let linksData = [
   },
   {
     icon: CompactDisc,
-    name: "音乐",
-    link: "https://music.imsyy.top/",
+    name: "QQ Music",
+    link: "https://y.qq.com/",
   },
   {
     icon: Compass,
@@ -70,8 +70,8 @@ let linksData = [
   },
   {
     icon: Fire,
-    name: "QQ Music",
-    link: "https://y.qq.com/",
+    name: "Bing",
+    link: "https://cn.bing.com/",
   },
 ];
 
