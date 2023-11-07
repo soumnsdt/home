@@ -51,7 +51,7 @@ let linksData = [
   {
     icon: Cloud,
     name: "ChatGPT",
-    link: "https://chat.julianwl.com",
+    link: "https://chat.julianwl.com/user-center?inVitecode=BJIKQRHMOT",
   },
   {
     icon: CompactDisc,
@@ -71,11 +71,6 @@ let linksData = [
   {
     icon: Fire,
     name: "Bing",
-    link: "https://cn.bing.com/",
-  },
-  {
-    icon: Fire,
-    name: "xxxx",
     link: "https://cn.bing.com/",
   },
 ];
