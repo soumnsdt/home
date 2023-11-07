@@ -60,8 +60,8 @@ let linksData = [
   },
   {
     icon: Compass,
-    name: "ChatGPT-Train",
-    link: "http://chatgpt-train.kevin-dt.top/",
+    name: "Plan",
+    link: "https://www.zomoplan.com/web/list",
   },
   {
     icon: Book,
@@ -71,6 +71,11 @@ let linksData = [
   {
     icon: Fire,
     name: "Bing",
+    link: "https://cn.bing.com/",
+  },
+  {
+    icon: Fire,
+    name: "xxxx",
     link: "https://cn.bing.com/",
   },
 ];
