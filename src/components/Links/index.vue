@@ -50,8 +50,8 @@ let linksData = [
   },
   {
     icon: Cloud,
-    name: "ChatGPT-web",
-    link: "http://www.kevin-dt.top/",
+    name: "ChatGPT",
+    link: "https://chat.julianwl.com",
   },
   {
     icon: CompactDisc,
@@ -65,13 +65,13 @@ let linksData = [
   },
   {
     icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
+    name: "news",
+    link: "https://news.cctv.com/world/",
   },
   {
     icon: Fire,
-    name: "今日热榜",
-    link: "https://hot.imsyy.top/",
+    name: "QQ Music",
+    link: "https://y.qq.com/",
   },
 ];
 
