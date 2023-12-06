@@ -50,13 +50,13 @@ let linksData = [
   },
   {
     icon: Cloud,
-    name: "ChatGPT",
+    name: "ChatGPT-3.5",
     link: "https://chat.julianwl.com/user-center?inVitecode=BJIKQRHMOT",
   },
   {
     icon: CompactDisc,
-    name: "QQ Music",
-    link: "https://y.qq.com/",
+    name: "ChatGPT4-Turbo",
+    link: "https://chatgpt4-web.top/",
   },
   {
     icon: Compass,
